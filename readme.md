@@ -19,19 +19,7 @@ Here’s an example of how the chatbot interacts with a candidate:
 ![Screenshot](Screenshot%20(128).png)
 
 ```markdown
-**Chatbot**: Thank you, Dhiman. May I have your email address, please?
 
-**Candidate**: Dhiman.s@gmail.com
-
-**Chatbot**: Great. Dhiman, how many years of experience do you have in the tech industry?
-
-**Candidate**: 1 year in tech industry.
-
-**Chatbot**: Okay. Which technologies are you proficient in, Dhiman?
-
-**Candidate**: Python, ML, SQL.
-
-**Chatbot**: Thank you for sharing that, Dhiman. Based on your proficiency in Python, could you tell me about a project where you implemented a complex data structure and algorithm? Also, could you explain the concept of supervised learning in machine learning and provide an example of its application?
 Getting Started
 Prerequisites
 Python 3.8 or higher
