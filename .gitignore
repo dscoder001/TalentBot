@@ -1,0 +1,42 @@
+# Ignore virtual environment files
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore sensitive credentials
+credentials/
+google_sheets_credentials.json
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Streamlit secrets
+.streamlit/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore local development files
+*.log
+*.sqlite3
+
+# Ignore compiled Python files
+*.so
+*.egg-info/
+dist/
+build/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment-specific files
+.env
+.env.local
